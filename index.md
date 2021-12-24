@@ -10,15 +10,16 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Database Engineer Portifolio 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Database architect with 16 years of experience in building and managing VLDB(OLAP), OLTP database environments. Worked on different technologies RDBMS(DB2),Big Data(Hive,Hbase,Druid) and NOSQL(Cassandra) primarily.  Good understanding of Mongo, CouchDB and Redis.
 
-## Header 2
+## Data platform and Integration ![image](https://user-images.githubusercontent.com/13926415/147362151-d6a0cbe6-ac61-4a9c-8a23-435c7e68142c.png)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+VISA’s data organization is responsible to provide data services for almost 180 + applications including BI, commercial, loyalty, analytical, risk, dispute and value added services. The range of products includes data processing platforms, BI reporting and data mining solutions. This organization matins around 16 Peta bytes data store including enterprise data lakes, DB2 and Oracle exadata warehouses. My role involves Architecting, deploying, troubleshooting, and optimizing very large warehouse environments in IBM DB2 DPF. Work for organization long-term architecture goals to transform these Data warehouses into open source Hadoop platform, DRUID cluters and other NOSQL technologies for scalability, better end user experience and for cost effective technology solutions.![image](https://user-images.githubusercontent.com/13926415/147362182-2cd1337b-4bed-4382-abe4-c34db858034f.png)
+
+
+ ![image](https://user-images.githubusercontent.com/13926415/147362041-b9b6366b-1f06-4c4c-9fb6-3584cf7166a6.png)
 
 ### Header 3
 
